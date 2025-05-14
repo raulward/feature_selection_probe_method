@@ -4,19 +4,6 @@ Um exemplo prático do **Método Probe** para seleção de variáveis em problem
 
 ---
 
-## 📋 Sumário
-
-1. [Sobre o Projeto](#sobre-o-projeto)  
-2. [Instalação](#instalação)  
-3. [Estrutura do Repositório](#estrutura-do-repositório)  
-4. [Como Executar](#como-executar)  
-5. [Metodologia: Método Probe](#metodologia-método-probe)  
-6. [Exemplo de Resultados](#exemplo-de-resultados)  
-7. [Contribuindo](#contribuindo)  
-8. [Licença](#licença)  
-
----
-
 ## Sobre o Projeto
 
 A seleção de variáveis (feature selection) é etapa crítica para melhorar a interpretabilidade, reduzir overfitting e acelerar o treinamento de modelos. O **Método Probe** consiste em:
