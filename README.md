@@ -1,4 +1,4 @@
-# feature_selection_probe_method
+# Feature Selection com Probe Method
 
 Um exemplo prático do **Método Probe** para seleção de variáveis em problemas de Machine Learning. Este repositório acompanha o post de LinkedIn “Feature Selection with the Probe Method” e traz todo o código e notebooks necessários para reproduzir a análise.
 
